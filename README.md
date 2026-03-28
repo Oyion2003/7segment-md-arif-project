@@ -27,7 +27,7 @@ The project was implemented in two methods:
 - Output screenshots
 
 ## Author
-**ARIF MAHMUD**  
+**MD ARIF MAHMUD OYION **  
 Department: Department of Computer Science and Engineering  
 Institution: American International University-Bangladesh
 
