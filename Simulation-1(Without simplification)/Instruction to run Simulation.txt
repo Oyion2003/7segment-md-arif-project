@@ -1,0 +1,3 @@
+Open .ms14 files in NI Multisim.
+Use digital toggles for W, X, Y, Z.
+Observe display outputs for each character.
